@@ -16,8 +16,7 @@
 * [License](#license)
 
 ## Description
-Weaver is a Layer-7 Load Balancer with Dynamic Sharding Strategies. 
-It is a modern HTTP reverse proxy with advanced features.
+Weaver is a modern Layer-7 Reverse Proxy with Dynamic Sharding Strategies.
 
 ## Features:
 
